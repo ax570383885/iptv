@@ -7,12 +7,18 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://ghfast.top/https://raw.githubusercontent.com/ax570383885/iptv/master/output/user_result.txt
+https://ghfast.top/https://raw.githubusercontent.com/nt2020xp/01/f8fad733b80c57ba14ca948b0c2c8ad7123ae0f7/tv.txt
+https://ghfast.top/https://raw.githubusercontent.com/zghzghabc/TV/ec634e2309ae3b1bb2f3f6d3338b6d73a6c9ae10/123.txt
+http://59.126.34.145:5000/Sub.txt?token=Doubebly&sd=1080&proxy=true
+http://220.135.64.124:5050/?type=m3u&proxy=true
+http://iptv.4666888.xyz/FYTV.txt
+http://166.0.199.103:50002/Sub.txt?token=Doubebly&sd=1080&proxy=true
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://gitee.com/sunmingya001/tv-live-streaming-source/raw/master/TMDBNDY.txt
 
 
 
