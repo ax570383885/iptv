@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-19 07:57:36,http://go.bkpcp.top/mg/cctv1
+2026-03-19 08:51:30,http://go.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
@@ -29,6 +29,9 @@ CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
 CGTN英语,http://go.bkpcp.top/mg/cgtn
 CGTN纪录,http://go.bkpcp.top/mg/cgtnjl
 CGTN俄语,http://go.bkpcp.top/mg/cgtnr
+CGTN法语,http://go.bkpcp.top/mg/cgtnf
+CGTN西语,http://go.bkpcp.top/mg/cgtne
+CGTN阿语,http://go.bkpcp.top/mg/cgtna
 
 📡卫视频道,#genre#
 广东卫视,http://go.bkpcp.top/mg/gdws
@@ -37,10 +40,10 @@ CGTN俄语,http://go.bkpcp.top/mg/cgtnr
 深圳卫视,http://go.061899.xyz:80/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 湖南卫视,http://go.bkpcp.top/mg/hunws
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://go.bkpcp.top/mg/zjws
-江苏卫视,http://go.bkpcp.top/mg/jsws
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://go.061899.xyz:80/mg/jsws
+江苏卫视,http://go.bkpcp.top/mg/jsws
 广西卫视,http://go.061899.xyz:80/mg/gxws
 广西卫视,http://go.bkpcp.top/mg/gxws
 东南卫视,http://go.061899.xyz:80/mg/dnws
@@ -49,13 +52,13 @@ CGTN俄语,http://go.bkpcp.top/mg/cgtnr
 海峡卫视,http://go.bkpcp.top/mg/hxws
 北京卫视,http://go.061899.xyz:80/mg/bjws
 北京卫视,http://go.bkpcp.top/mg/bjws
-天津卫视,http://go.bkpcp.top/mg/tjws
 天津卫视,http://go.061899.xyz:80/mg/tjws
+天津卫视,http://go.bkpcp.top/mg/tjws
 东方卫视,http://go.bkpcp.top/mg/dfws
-黑龙江卫视,http://go.061899.xyz:80/mg/hljws
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
-辽宁卫视,http://go.061899.xyz:80/mg/lnws
+黑龙江卫视,http://go.061899.xyz:80/mg/hljws
 辽宁卫视,http://go.bkpcp.top/mg/lnws
+辽宁卫视,http://go.061899.xyz:80/mg/lnws
 吉林卫视,http://go.061899.xyz:80/mg/jlbws
 吉林卫视,http://go.bkpcp.top/mg/jlws
 湖北卫视,http://go.061899.xyz:80/mg/hubws
@@ -67,10 +70,11 @@ CGTN俄语,http://go.bkpcp.top/mg/cgtnr
 河南卫视,http://go.061899.xyz:80/mg/hnws
 河南卫视,http://go.bkpcp.top/mg/hnws
 贵州卫视,http://go.061899.xyz:80/mg/gzws
+贵州卫视,http://go.bkpcp.top/mg/gzws
 重庆卫视,http://go.061899.xyz:80/mg/cqws
 重庆卫视,http://go.bkpcp.top/mg/cqws
-四川卫视,http://go.061899.xyz:80/mg/scws
 四川卫视,http://go.bkpcp.top/mg/scws
+四川卫视,http://go.061899.xyz:80/mg/scws
 江西卫视,http://go.061899.xyz:80/mg/jxws
 江西卫视,http://go.bkpcp.top/mg/jxws
 云南卫视,http://go.bkpcp.top/mg/ynws
@@ -95,6 +99,10 @@ CGTN俄语,http://go.bkpcp.top/mg/cgtnr
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://go.061899.xyz:80/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
 广东影视,http://go.bkpcp.top/mg/gdys
 揭阳综合,http://183.10.180.90:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 揭阳公共,http://183.10.180.90:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
@@ -107,10 +115,10 @@ CGTN俄语,http://go.bkpcp.top/mg/cgtnr
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://cdn6.163189.xyz/163189/fct4k
+TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
@@ -160,18 +168,11 @@ CCTV移动传媒,url
 中国天气,url
 中国交通,url
 CGTN新闻,url
-CGTN法语,url
-CGTN西语,url
-CGTN阿语,url
 香港卫视,url
 三沙卫视,url
 安多卫视,url
-广东珠江,url
 广东公共,url
-广东体育,url
-广东新闻,url
 广东少儿,url
-广东民生,url
 广东综艺,url
 广东科教,url
 广东岭南戏曲,url
